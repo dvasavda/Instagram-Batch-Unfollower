@@ -1,5 +1,5 @@
 # Instagram-Batch-Unfollower
-Use Python to unfollow multiple people off of Instagram at a time. This is one of the only valid and unpaid ways to automate Instagram unfollowing
+Use Python to automate unfollowing multiple people from Instagram at a time. This is one of the only valid and unpaid ways to automate Instagram unfollowing
 
 ## Dependencies
 Depends on the `InstagramAPI` module, which you can [find out about here](https://github.com/LevPasha/Instagram-API-python).
