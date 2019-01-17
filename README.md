@@ -14,7 +14,7 @@ Simply run *batch_unfollow.py* in terminal or Command Prompt. There are optional
 
 *-u*  changes how many users you would like to unfollow at one time
 
-*-t* changes the maximum interval delay in seconds for unfollowing users. The delay will be randomized within the interval
+*-t* changes the maximum interval delay in seconds for unfollowing users. The timed delay will be randomized within the interval.
 
 **Example use:**
 ```
